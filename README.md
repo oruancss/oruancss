@@ -1,7 +1,7 @@
 ## 👋 Hello there, my name is Ruan, I'm a .NET Core developer from Brazil, still learning and trying to enter the job market.
 
-![Oruancss GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=oruancss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Oruancss GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oruancss&layout=compact&langs_count=8&theme=dracula)
+![Oruancss GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=oruancss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oruancss&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Where you can find me:</h2>
 <div> 
